@@ -1,7 +1,7 @@
 
 <h1>Hi everyone, I'm Eric Xiao! 👋</h1>
 <p>I am a Computer Science student at the University of Washington-Seattle who is passionate about CS (web dev and ML) 💻, Olympiad-level mathematics 📐, and orchestra + jazz music 🎶.</p>
-<hr>
+
 <pre>
   <code>
      {
