@@ -14,7 +14,7 @@
         "favourite_books": ["What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe", "Zero to One by Peter Thiel", "Principles by Ray Dalio"],
         "favourite_music": "One-Winged Angel (Final Fantasy VII)"
         "fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it off when I became 12 years old; it grew all the way to my knee 👀"
-      }
+     }
   </code>
 </pre>
 
