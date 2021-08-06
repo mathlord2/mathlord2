@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div style="justify-content: center">
   <h1>Hi everyone, I'm Eric Xiao! 👋</h1>
   <hr>
 
