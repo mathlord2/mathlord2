@@ -36,7 +36,7 @@
           "Principles by Ray Dalio"
         ],
         "🎵favourite_music": "One-Winged Angel (Final Fantasy VII)"
-        "👀fun_fact": "I had a ponytail ever since a young age, and I keptgrowing it until I cut it
+        "👀fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it
         off when I became 12 years old; it grew all the way to my knee 👀"
      }
   </code>
