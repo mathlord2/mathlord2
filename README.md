@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>Hi everyone, I'm Eric Xiao! 👋</h1>
-  <p>I am a Computer Science student at the University of Washington-Seattle who is passionate about computer science, mathematics, and music.</p>
-  <hr>
-  <pre>
-    <code>
+
+<h1>Hi everyone, I'm Eric Xiao! 👋</h1>
+<p>I am a Computer Science student at the University of Washington-Seattle who is passionate about computer science, mathematics, and music.</p>
+<hr>
+<pre>
+  <code>
      [{
         "hometown": "Waterloo, Canada",
         "interests": ["CS (web development and machine learning)", "Olympiad-level mathematics", "Orchestral and jazz music", "Biotech (not really experienced with it but cool topic :) )"],
@@ -23,9 +23,9 @@
         },
         "fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it off at 12 years old (because it represents a full rotation of the Chinese zodiac; not too sure about the cultural context of this, but I guess it brings good luck :) )"
       }]
-    </code>
-   </pre>
+  </code>
+</pre>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mathlord2&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlord2&layout=compact"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mathlord2&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlord2&layout=compact"/>
+
