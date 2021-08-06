@@ -42,6 +42,6 @@
   </code>
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mathlord2&show_icons=true&theme=radical?hide=issues,contribs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mathlord2&show_icons=true&theme=radical&hide=issues,contribs"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathlord2&layout=compact"/>
 
