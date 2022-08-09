@@ -22,16 +22,18 @@
           "Eating and sleeping (why not ¯\_(ツ)_/¯)"
         ],
         "🎮favourite_games": [
+          "Fire Emblem (Radiant Dawn, Awakening, Fates, Three Houses)",
           "Final Fantasy VII",
+          "Xenoblade Chronicles 1 and 2",
           "Persona 5",
           "Brawl Stars"
         ],
         "📚favourite_books": [
           "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
-          "Zero to One by Peter Thiel",
-          "Principles by Ray Dalio"
+          "How to Avoid a Climate Disaster by Bill Gates",
+          "Zero to One by Peter Thiel"
         ],
-        "🎵favorite_music": "One-Winged Angel (Final Fantasy VII)"
+        "🎵favorite_music": "One-Winged Angel Rebirth (Final Fantasy VII Remake)"
         "👀fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it
         off when I became 12 years old; it grew all the way to my knee 👀"
      }
