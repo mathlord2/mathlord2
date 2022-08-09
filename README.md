@@ -1,7 +1,5 @@
 
 <h1>What is an Eric Xiao?</h1>
-<p>I am a Computer Science student at the University of Washington-Seattle who is passionate about CS (web dev and data science) 💻, Olympiad-level mathematics 📐, and video-game + jazz music 🎶.</p>
-
 <pre>
   <code>
      {
