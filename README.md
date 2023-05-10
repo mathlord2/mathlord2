@@ -7,7 +7,7 @@
         "🏠hometown": "Waterloo, Canada",
         "💡highlights": [
           "Amazon SDE Intern (Summer 2023)",
-          "Development lead of Eat Together (student-run startup)",
+          "Co-founder of Eat Together (student-run startup building a food meetup app)",
           "DUBvelopers (UW web-dev student organization) coding officer",
           "About 16 hackathons and six wins so far (I lost track lol)",
           "Prev. Olympiad Math teacher"
