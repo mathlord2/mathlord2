@@ -3,7 +3,7 @@
 <pre>
   <code>
      {
-        "💼status": "Computer Science sophomore at University of Washington-Seattle",
+        "💼status": "Computer Science student at the University of Washington-Seattle",
         "🏠hometown": "Waterloo, Canada",
         "💡highlights": [
           "Amazon SDE Intern (Summer 2023)",
