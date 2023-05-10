@@ -6,13 +6,11 @@
         "💼status": "Computer Science sophomore at University of Washington-Seattle",
         "🏠hometown": "Waterloo, Canada",
         "💡highlights": [
+          "Amazon SDE Intern (Summer 2023)",
           "Development lead of Eat Together (student-run startup)",
           "DUBvelopers (UW web-dev student organization) coding officer",
           "About 16 hackathons and six wins so far (I lost track lol)",
-          "Prev. Chief Technology Officer of two student-run startups",
-          "Prev. Olympiad Math teacher",
-          "Lots of awards from math and computing contests (especially the CEMC ones)",
-          "Played the piano (private lessons and RCM exams) and saxophone (school band + jazz instrument), a bit rusty now but trying my best"
+          "Prev. Olympiad Math teacher"
         ],
         "✨hobbies": [
           "Binging YouTube",
