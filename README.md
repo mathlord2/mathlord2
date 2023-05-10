@@ -8,15 +8,16 @@
         "💡highlights": [
           "Amazon SDE Intern (Summer 2023)",
           "Co-founder of Eat Together (student-run startup building a food meetup app)",
-          "DUBvelopers (UW web-dev student organization) coding officer",
           "About 16 hackathons and six wins so far (I lost track lol)",
-          "Prev. Olympiad Math teacher"
+          "Prev. Olympiad Math teacher",
+          "Math and competitive programming contest enthusiast + winner"
         ],
         "✨hobbies": [
           "Binging YouTube",
           "Video gaming",
           "Cooking",
           "Reading philosophical books",
+          "Jamming music",
           "Eating and sleeping (why not ¯\_(ツ)_/¯)"
         ],
         "🎮favourite_games": [
