@@ -20,14 +20,14 @@
           "Jamming music",
           "Eating and sleeping (why not ¯\_(ツ)_/¯)"
         ],
-        "🎮favourite_games": [
+        "🎮favorite_games": [
           "Fire Emblem (Radiant Dawn, Awakening, Fates, Three Houses)",
           "Final Fantasy VII",
-          "Xenoblade Chronicles 1 and 2",
-          "Persona 5",
+          "Xenoblade Chronicles (all three :) )",
+          "Persona 5 Royal",
           "Brawl Stars"
         ],
-        "📚favourite_books": [
+        "📚favorite_books": [
           "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
           "How to Avoid a Climate Disaster by Bill Gates",
           "Zero to One by Peter Thiel"
