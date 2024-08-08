@@ -6,8 +6,8 @@
         "💼status": "Computer Science student at the University of Washington-Seattle",
         "🏠hometown": "Waterloo, Canada",
         "💡highlights": [
-          "Amazon SDE Intern (Summer 2023)",
-          "Co-founder of Eat Together (student-run startup building a food meetup app)",
+          "Amazon SDE Intern (Summer 2023 and 2024)",
+          "Co-founder of Eat Together (student-run startup building a food meetup app used by 300+ users)",
           "About 18 hackathons and six wins so far (I lost track lol)",
           "Prev. Olympiad Math teacher",
           "Math and competitive programming contest enthusiast + winner"
