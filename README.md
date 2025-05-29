@@ -3,34 +3,27 @@
 <pre>
   <code>
      {
-        "💼status": "Computer Science student at the University of Washington-Seattle",
+        "💼status": "Software Engineer at Amazon",
         "🏠hometown": "Waterloo, Canada",
+        "🏫alma_matter": "University of Washington-Seattle (the best UW), BS in Computer Science",
         "💡highlights": [
           "Amazon SDE Intern (Summer 2023 and 2024)",
-          "Co-founder of Eat Together (student-run startup building a food meetup app used by 300+ users)",
+          "Co-founder of Eat Together (student-run startup building a food meetup app used by 500+ users)",
           "About 18 hackathons and six wins so far (I lost track lol)",
-          "Prev. Olympiad Math teacher",
-          "Math and competitive programming contest enthusiast + winner"
+          "Prev. Olympiad Math teacher"
         ],
         "✨hobbies": [
-          "Binging YouTube",
           "Video gaming",
           "Cooking",
           "Reading philosophical books",
           "Jamming music",
           "Eating and sleeping (why not ¯\_(ツ)_/¯)"
         ],
-        "🎮favorite_games": [
-          "Fire Emblem (Radiant Dawn, Awakening, Fates, Three Houses)",
-          "Final Fantasy VII",
-          "Xenoblade Chronicles (all three :) )",
-          "Persona 5 Royal",
-          "Brawl Stars"
-        ],
         "📚favorite_books": [
+          "The Bible",
+          "The Sweet Spot by Paul Bloom",
           "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
-          "How to Avoid a Climate Disaster by Bill Gates",
-          "Zero to One by Peter Thiel"
+          "How to Avoid a Climate Disaster by Bill Gates"
         ],
         "🎵favorite_music": "Colony 9 (Xenoblade Chronicles DE)"
         "👀fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it
